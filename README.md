@@ -188,9 +188,6 @@ Send to: trinda@yoripe.com
 ---
 
 
-We are not looking for “perfect answers”.  
-We are looking for **how you think.**
-
 Good luck 🚀  
 We look forward to reviewing your work.
 
