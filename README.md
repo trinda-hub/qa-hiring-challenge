@@ -132,13 +132,12 @@ id | user_id | voucher_code | order_id | status   | created_at
 Answer the following:
 
 1. What are the possible causes?
-2. What logs or additional data would you investigate?
+2. What additional data/logs would you request from the developer team?
 3. Could this be caused by:
    - Double-click?
    - Network retry?
    - Payment webhook duplication?
 4. Is this more likely a system bug or user behavior? Explain.
-5. What preventive mechanism would you recommend?
 
 ---
 
