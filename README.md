@@ -165,8 +165,7 @@ Questions:
 2. Why was the alert triggered?
 3. What metric was incorrectly designed?
 4. What query would you run to validate real usage?
-5. How would you redesign the monitoring logic?
-6. Should `PENDING` usage count toward quota? Why or why not?
+
 
 ---
 
