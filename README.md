@@ -100,7 +100,7 @@ For each reported issue:
    - A concurrency/race condition problem?
    - A frontend/backend inconsistency?
 4. Rank the issues by business severity and explain your reasoning.
-5. Which issue poses the highest financial risk? Why?
+5. If you confirm this is a system bug, create a proper bug ticket.
 
 ---
 
